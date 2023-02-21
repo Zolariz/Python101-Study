@@ -13,3 +13,14 @@ EP.4  1. ลุงสอนคอนเซปต์การบันทึก�
         - tiny database - SQlite3 SQL
         - server
       2. การเพิ่มข้อมูลใน list กับ dictionary
+EP.4 - Data Persistence
+
+This episode covers the concept of data persistence and different ways to save and load data, including:
+
+    Saving data to text files
+    Importing and exporting data using CSV files
+    Tiny database
+    SQLite3 SQL server
+    Adding data to lists and dictionaries
+
+Note: The code examples for each episode can be found in their respective folders.
