@@ -7,9 +7,9 @@ EP.2    ลุงสอนเกี่ยวกับ GUI ใช้ library tkin
 
 EP.3    ลุงสอนการสมัครและใช้งาน Github
 
-EP.4  - ลุงสอนคอนเซปต์การบันทึกข้อมูลแบบต่างๆ เช่น
-        1. บันทึกผ่านไฟล์ .text
-        2. บันทึกและ import ผ่านไฟล์ csv
-        3. tiny database - SQlite3 SQL
-        4. server
-      - การเพิ่มข้อมูลใน list กับ dictionary
+EP.4  1. ลุงสอนคอนเซปต์การบันทึกข้อมูลแบบต่างๆ เช่น
+        - บันทึกผ่านไฟล์ .text
+        - บันทึกและ import ผ่านไฟล์ csv
+        - tiny database - SQlite3 SQL
+        - server
+      2. การเพิ่มข้อมูลใน list กับ dictionary
