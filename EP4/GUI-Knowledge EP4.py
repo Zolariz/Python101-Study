@@ -71,6 +71,7 @@ def Savedata():
     v_data.set('')      # เคลียร์ข้อมูลที่อยู่ในช่องกรอก
 
 B4 = ttk.Button(LF1, text = 'บันทึก',command=Savedata)
-B4.pack(ipadx=20, ipady=20)
+B4.pack(ipadx=10, ipady=10)
+##############################################
 
 GUI.mainloop()
