@@ -1,0 +1,66 @@
+import turtle
+tao = turtle.Pen()
+tao.shape('turtle')
+
+for i in range(4):
+    tao.forward(100)
+    tao.left(90)
+tao.penup()
+tao.goto(200,0)
+tao.pendown()
+for i in range(4):
+    tao.forward(100)
+    tao.left(90)
+tao.penup()
+tao.goto(-200,0)
+tao.pendown()
+for i in range(4):
+    tao.forward(100)
+    tao.left(90)
+
+tao.color('black', 'black')
+tao.begin_fill()
+tao.penup()
+tao.goto(-150,50)
+tao.pendown()
+tao.dot(20)
+tao.end_fill()
+
+tao.penup()
+tao.goto(25,65)
+tao.pendown()
+tao.begin_fill()
+tao.circle(10)
+tao.end_fill()
+
+tao.penup()
+tao.goto(75,20)
+tao.pendown()
+tao.begin_fill()
+tao.circle(10)
+tao.end_fill()
+
+tao.penup()
+tao.goto(225,65)
+tao.pendown()
+tao.begin_fill()
+tao.circle(10)
+tao.end_fill()
+
+tao.penup()
+tao.goto(250,40)
+tao.pendown()
+tao.begin_fill()
+tao.circle(10)
+tao.end_fill()
+
+tao.penup()
+tao.goto(275,15)
+tao.pendown()
+tao.begin_fill()
+tao.circle(10)
+tao.end_fill()
+
+tao.penup()
+tao.goto(0,-40)
+tao.pendown()
