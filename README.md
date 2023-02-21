@@ -2,7 +2,8 @@
 
 โค้ด Python จากคลาส Python101 ของ Uncle Engineer
 
-## EP.1 ลุงสอนติดตั้ง Python และการคิดเป็นลำดับโดยการฝึกวาดภาพใช้ Library turtle
+## EP.1 ลุงสอนติดตั้ง Python 
+ในตอนนี้เนื้อหาประกอบด้วยการติดตั้งโปรแกรม python และการคิดเป็นลำดับโดยการฝึกวาดภาพใช้ Library turtle
 
 ## EP.2 ลุงสอนเกี่ยวกับ GUI ใช้ Library tkinter
 
