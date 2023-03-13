@@ -1,0 +1,8 @@
+จงเขียนโปรแกรม Python เพื่อคำนวณค่า TDEE ของลูกค้าที่เข้ารับการเทรน 5 คน
+โดยมีข้อมูลดังต่อไปนี้
+	ชื่อ	น้ำหนัก	%ไขมัน	พฤติกรรมการออกกำลังกาย
+	A	68	20	lightly active
+	B	92	15	very active
+	C	45	35	sedentary
+	D	76	18	moderately active
+	E	132	42	sedentary
